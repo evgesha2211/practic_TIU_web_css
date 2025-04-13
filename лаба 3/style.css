@@ -47,7 +47,7 @@ body {
     color: #B1967C;
     font-family: "Palatino Linotype", Bskerville, serif;
     padding-top: 115px;
-    background: #CDE6FF url(Рисунки/bg_body.png) repeat-x;
+    background: #CDE6FF url(images/bg_body.png) repeat-x;
     max-width: 800px;
     margin: 0;
 }
